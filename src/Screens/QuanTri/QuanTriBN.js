@@ -34,7 +34,6 @@ const theme = createTheme({
     }
 });
 
-// CSS-in-JS với makeStyles
 const useStyles = makeStyles({
     appMain: {
         paddingLeft: '320px',
