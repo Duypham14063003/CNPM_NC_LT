@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 // import { Context } from "../main";
-import "/Users/vinh/Desktop/WebAdmin/src/Screens/TrangBacSi/Doctor.css";
 import "../ChiTietBenhNhan/Letan.css";
 import { useNavigate } from "react-router-dom";
 
